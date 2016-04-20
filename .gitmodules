@@ -1,0 +1,21 @@
+[submodule "hw_0"]
+	path = hw_0
+	url = https://github.com/felipe-mans/0-imagine-pixels.git
+[submodule "hw_01"]
+	path = hw_01
+	url = https://github.com/felipe-mans/1-time-to-line.git
+[submodule "hw_02"]
+	path = hw_02
+	url = https://github.com/felipe-mans/2-transformers.git
+[submodule "hw_03"]
+	path = hw_03
+	url = https://github.com/felipe-mans/3-Curves.git
+[submodule "hw_04"]
+	path = hw_04
+	url = https://github.com/felipe-mans/4-Points.git
+[submodule "hw_05"]
+	path = hw_05
+	url = https://github.com/felipe-mans/5-Solids.git
+[submodule "hw_06"]
+	path = hw_06
+	url = https://github.com/felipe-mans/6-stacks.git
